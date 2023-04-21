@@ -5,3 +5,4 @@ Creating a new branch is quick.
 风gfhhhh hjsaewrfhsadfajswcvxz-kjqxzcvbfuasoi
 asfkjdsfawerczaw
 
+fix a bug 102
