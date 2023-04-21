@@ -1,0 +1,54 @@
+[33mcommit c53501531c07335b5106d867aba61249edbd7f7d[m[33m ([m[1;36mHEAD -> [m[1;32missue-101[m[33m)[m
+Author: yc <yangc686@163.com>
+Date:   Fri Apr 21 19:54:05 2023 +0800
+
+    fix bug 101
+
+[33mcommit f9595e5f81a826ab8ef778dc3f6d45417ccbb1fd[m
+Merge: 3e9f989 abdd963
+Author: yc <yangc686@163.com>
+Date:   Fri Apr 21 14:11:31 2023 +0800
+
+    conflict fixed
+
+[33mcommit 3e9f9892a9c941264198ffd6f27e1c829ad8c02d[m
+Author: yc <yangc686@163.com>
+Date:   Fri Apr 21 14:05:41 2023 +0800
+
+    fff
+
+[33mcommit abdd9637cfa1e341008217d42325f7bc9f8a1eda[m
+Author: yc <yangc686@163.com>
+Date:   Fri Apr 21 14:02:59 2023 +0800
+
+    AND simple
+
+[33mcommit a5de4d3f3b7a209b65fd5926d300dd25287a61c8[m
+Author: yc <yangc686@163.com>
+Date:   Thu Apr 20 20:18:12 2023 +0800
+
+    & simple
+
+[33mcommit e2a6376bdf3974a26aab150def0b4732d1738e40[m
+Author: yc <yangc686@163.com>
+Date:   Thu Apr 20 20:02:01 2023 +0800
+
+    branch test
+
+[33mcommit 896c0f034ebab50bfe1cf0bb31fe17cc5636cbe9[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: yc <yangc686@163.com>
+Date:   Thu Apr 20 19:36:49 2023 +0800
+
+    append GPL
+
+[33mcommit 006a2a44efe851b15e030527d922cb380a5807df[m
+Author: yc <yangc686@163.com>
+Date:   Thu Apr 20 19:35:39 2023 +0800
+
+    add distributed
+
+[33mcommit 808b4eef6de88c579d07d6363562c88568fc4d79[m
+Author: yc <yangc686@163.com>
+Date:   Thu Apr 20 19:32:18 2023 +0800
+
+    wrote a readme file~
